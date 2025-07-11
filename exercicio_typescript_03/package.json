@@ -1,0 +1,21 @@
+{
+  "name": "exercicio_typescript_03",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "description": "Exercício 03 - TypeScript: Classes, Objetos, Construtores e Encapsulamento",
+  "main": "index.js",
+  "scripts": {
+    "questao1": "ts-node src/questao1/main.ts",
+    "questao2": "ts-node src/questao2/main.ts",
+    "questao3": "ts-node src/questao3/main.ts",
+    "questao4": "ts-node src/questao4/main.ts"
+  },
+  "keywords": [],
+  "author": "Lucas Hot",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
